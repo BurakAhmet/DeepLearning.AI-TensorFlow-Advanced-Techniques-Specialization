@@ -19,9 +19,9 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
 
 ## Instructors
 
-  | [<img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/assets/89780902/188b1561-c55f-4df3-9a36-0b54ce7b9e1c" width="75px" height="75px">](https://www.linkedin.com/in/laurence-moroney/) | [<img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/assets/89780902/5c34946f-f8e1-4716-8304-693064daa23a" width="75px" height="75px">](https://www.linkedin.com/in/eddy-shyu/) |
+  | [<img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/assets/89780902/188b1561-c55f-4df3-9a36-0b54ce7b9e1c" width="75px" height="75px">](https://www.linkedin.com/in/laurence-moroney/) <br> [Laurence Moroney](https://www.linkedin.com/in/laurence-moroney/) | [<img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/assets/89780902/5c34946f-f8e1-4716-8304-693064daa23a" width="75px" height="75px">](https://www.linkedin.com/in/eddy-shyu/) <br> [Eddy Shyu](https://www.linkedin.com/in/eddy-shyu/) |
 | --- | --- |
-| [Laurence Moroney](https://www.linkedin.com/in/laurence-moroney/) | [Eddy Shyu](https://www.linkedin.com/in/eddy-shyu/) |
+| Lead AI Advocate, Google | Product Lead, DeepLearning.AI |
 
 
 
