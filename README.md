@@ -12,8 +12,10 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
   - ### [Custom Models, Layers, and Loss Functions with TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow)
     Compare Functional and Sequential APIs, discover new models you can build with the Functional API, and build a model that produces multiple outputs including a Siamese network.
     
-    * <b>[Week 1 - Functional APIs](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/1.%20Functional%20APIs)</b>:
-         Compare how the Functional API differs from the Sequential API, and see how the Functional API gives you additional flexibility in designing models. Practice using the functional API and build a Siamese network!
+    * <b>[Week 1 - Functional APIs](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/1.%20Functional%20APIs)</b>: Compare how the Functional API differs from the Sequential API, and see how the Functional API gives you additional flexibility in designing models. Practice using the functional API and build a Siamese network!
+      
+    * <b>[Week 2 - Custom Loss Functions](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/2.%20Custom%20Loss%20Functions)</b>: Loss functions help measure how well a model is doing, and are used to help a neural network learn from the training data. Learn how to build custom loss functions, including the contrastive loss function that is used in a Siamese network.
+      
 
 ## Instructors
 
