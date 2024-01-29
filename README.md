@@ -17,7 +17,13 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
     * <b>[Week 2 - Custom Loss Functions](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/2.%20Custom%20Loss%20Functions)</b>: Loss functions help measure how well a model is doing, and are used to help a neural network learn from the training data. Learn how to build custom loss functions, including the contrastive loss function that is used in a Siamese network.
       
     * <b>[Week 3 - Custom Layers](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/3.%20Custom%20Layers)</b>: Custom layers give you the flexibility to implement models that use non-standard layers. Practice building off of existing standard layers to create custom layers for your models.
-      
+   
+    * <b>[Week 4 - Custom Models](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/4.%20Custom%20Models)</b>: You can build off of existing models to add custom functionality. This week, extend the TensorFlow Model Class to build a ResNet model!
+   
+      <details>
+      <summary>Show Certificate</summary>
+           <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/assets/89780902/30f8fc60-f241-4cb7-8b35-5c48fd169793">
+      </details>
 
 ## Instructors
 
