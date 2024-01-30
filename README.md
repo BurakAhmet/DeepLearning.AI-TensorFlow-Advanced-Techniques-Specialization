@@ -20,6 +20,8 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
    
     * <b>[Week 4 - Custom Models](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/4.%20Custom%20Models)</b>: You can build off of existing models to add custom functionality. This week, extend the TensorFlow Model Class to build a ResNet model!
    
+    * <b>[Week 5 - Callbacks](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/5.%20Callbacks)</b>: Custom callbacks allow you to customize what your model outputs or how it behaves during training. This week, implement a custom callback to stop training once the callback detects overfitting.
+   
       <details>
       <summary>Show Certificate</summary>
            <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/assets/89780902/30f8fc60-f241-4cb7-8b35-5c48fd169793">
