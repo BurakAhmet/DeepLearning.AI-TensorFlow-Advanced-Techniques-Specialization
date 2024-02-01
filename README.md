@@ -10,7 +10,6 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
 
 ## Contents
   - ### [Custom Models, Layers, and Loss Functions with TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow)
-    Compare Functional and Sequential APIs, discover new models you can build with the Functional API, and build a model that produces multiple outputs including a Siamese network.
     
     * <b>[Week 1 - Functional APIs](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/1.%20Functional%20APIs)</b>: Compare how the Functional API differs from the Sequential API, and see how the Functional API gives you additional flexibility in designing models. Practice using the functional API and build a Siamese network!
       
@@ -26,6 +25,10 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
       <summary>Show Certificate</summary>
            <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/assets/89780902/30f8fc60-f241-4cb7-8b35-5c48fd169793">
       </details>
+
+  - ### [Custom and Distributed Training with TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/2.%20Custom%20and%20Distributed%20Training%20with%20TensorFlow)
+    
+    * <b>[Week 1 - Differentiation and Gradients](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/2.%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/1.%20Differentiation%20and%20Gradients)</b>: You will get a detailed look at the fundamental building blocks of TensorFlow - tensor objects. For example, you will be able to describe the difference between eager mode and graph mode in TensorFlow, and explain why eager mode is very user friendly for you as a developer. You will also use TensorFlow tools to calculate gradients so that you don’t have to look for your old calculus textbooks next time you need to get a gradient!
 
 ## Instructors
 
