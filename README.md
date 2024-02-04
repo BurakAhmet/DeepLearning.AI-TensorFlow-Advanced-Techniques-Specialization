@@ -25,7 +25,7 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
     <summary>Show Certificate</summary>
          <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/assets/89780902/30f8fc60-f241-4cb7-8b35-5c48fd169793">
     </details>
-      
+    
 ---
 
   - ### [Custom and Distributed Training with TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/2.%20Custom%20and%20Distributed%20Training%20with%20TensorFlow)
@@ -35,6 +35,15 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
     * <b>[Week 2 - Custom Training](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/2.%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/2.%20Custom%20Training)</b>: You will build custom training loops using GradientTape and TensorFlow Datasets. Being able to write your own training loops will give you more flexibility and visibility with your model training. You will also use a function to calculate the derivatives of functions so that you don’t have to look to your old calculus textbooks to calculate gradients.
    
     * <b>[Week 3 - Graph Mode](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/2.%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/3.%20Graph%20Mode)</b>: You’ll learn about the benefits of generating code that runs in “graph mode”. You’ll take a peek at what graph code looks like, and you’ll practice generating this more efficient code automatically with TensorFlow’s tools, so that you don’t have to write the graph code yourself!
+   
+    * <b>[Week 4 - Distributed Training](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/2.%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/4.%20Distributed%20Training)</b>: You will harness the power of distributed training to process more data and train larger models, faster. You’ll get an overview of various distributed training strategies and then practice working with two strategies, one that trains on multiple GPU cores, and the other that trains on multiple TPU cores.
+   
+    <details>
+    <summary>Show Certificate</summary>
+         <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/assets/89780902/ce2b1a4c-7fa4-467f-a40b-2151aad0cb28">
+    </details>
+    
+---
 
 ## Instructors
 
