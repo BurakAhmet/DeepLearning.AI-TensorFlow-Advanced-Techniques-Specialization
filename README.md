@@ -25,6 +25,8 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
       <summary>Show Certificate</summary>
            <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/assets/89780902/30f8fc60-f241-4cb7-8b35-5c48fd169793">
       </details>
+      
+---
 
   - ### [Custom and Distributed Training with TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/2.%20Custom%20and%20Distributed%20Training%20with%20TensorFlow)
     
