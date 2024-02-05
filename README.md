@@ -45,6 +45,12 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
     
 ---
 
+  - ### [Advanced Computer Vision with TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/3.%20Advanced%20Computer%20Vision%20with%20TensorFlow)
+      * <b>[Week 1 - Introduction to Computer Vision](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/3.%20Advanced%20Computer%20Vision%20with%20TensorFlow/1.%20Introduction%20to%20Computer%20Vision)</b>: Get a conceptual overview of image classification, object localization, object detection, and image segmentation. Also be able to describe multi-label classification, and distinguish between semantic segmentation and instance segmentation. In the rest of this course, you will apply TensorFlow to build object detection and image segmentation models.
+
+---
+
+
 ## Instructors
 
   | [<img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/assets/89780902/188b1561-c55f-4df3-9a36-0b54ce7b9e1c" width="75px" height="75px">](https://www.linkedin.com/in/laurence-moroney/) <br> [Laurence Moroney](https://www.linkedin.com/in/laurence-moroney/) | [<img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/assets/89780902/5c34946f-f8e1-4716-8304-693064daa23a" width="75px" height="75px">](https://www.linkedin.com/in/eddy-shyu/) <br> [Eddy Shyu](https://www.linkedin.com/in/eddy-shyu/) |
