@@ -47,6 +47,8 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
 
   - ### [Advanced Computer Vision with TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/3.%20Advanced%20Computer%20Vision%20with%20TensorFlow)
       * <b>[Week 1 - Introduction to Computer Vision](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/3.%20Advanced%20Computer%20Vision%20with%20TensorFlow/1.%20Introduction%20to%20Computer%20Vision)</b>: Get a conceptual overview of image classification, object localization, object detection, and image segmentation. Also be able to describe multi-label classification, and distinguish between semantic segmentation and instance segmentation. In the rest of this course, you will apply TensorFlow to build object detection and image segmentation models.
+   
+      * <b>[Week 2 - Object Detection](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/3.%20Advanced%20Computer%20Vision%20with%20TensorFlow/2.%20Object%20Detection)</b>: You’ll get an overview of some popular object detection models, such as regional-CNN and ResNet-50. You’ll use object detection models that you’ll retrieve from TensorFlow Hub, download your own models and configure them for training, and also build your own models for object detection. By using transfer learning, you will train a model to detect and localize rubber duckies using just five training examples. You’ll also get to manually label your own rubber ducky images!
 
 ---
 
