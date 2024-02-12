@@ -51,7 +51,14 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
       * <b>[Week 2 - Object Detection](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/3.%20Advanced%20Computer%20Vision%20with%20TensorFlow/2.%20Object%20Detection)</b>: You’ll get an overview of some popular object detection models, such as regional-CNN and ResNet-50. You’ll use object detection models that you’ll retrieve from TensorFlow Hub, download your own models and configure them for training, and also build your own models for object detection. By using transfer learning, you will train a model to detect and localize rubber duckies using just five training examples. You’ll also get to manually label your own rubber ducky images!
    
       * <b>[Week 3 - Image Segmentation](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/3.%20Advanced%20Computer%20Vision%20with%20TensorFlow/3.%20Image%20Segmentation)</b>: This week is all about image segmentation using variations of the fully convolutional neural network. With these networks, you can assign class labels to each pixel, and perform much more detailed identification of objects compared to bounding boxes. You’ll build the fully convolutional neural network, U-Net, and Mask R-CNN this week to identify and detect numbers, pets, and even zombies!
-
+   
+      * <b>[Week 4 - Visualization and Interpretability](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/3.%20Advanced%20Computer%20Vision%20with%20TensorFlow/4.%20Visualization%20and%20Interpretability)</b>: You’ll learn about the importance of model interpretability, which is the understanding of how your model arrives at its decisions. You’ll also implement class activation maps, saliency maps, and gradient-weighted class activation maps to identify which parts of an image are being used by your model to make its predictions. You’ll also see an example of how visualizing a model’s intermediate layer activations can help to improve the design of a famous network, AlexNet.
+        
+    <details>
+    <summary>Show Certificate</summary>
+         <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/assets/89780902/e95683f2-8cd2-4b02-97fd-1b002e7c4feb">
+    </details>
+    
 ---
 
 
