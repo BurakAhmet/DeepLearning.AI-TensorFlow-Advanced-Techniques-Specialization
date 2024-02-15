@@ -61,6 +61,11 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
     
 ---
 
+  - ### [Generative Deep Learning with TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/4.%20Generative%20Deep%20Learning%20with%20TensorFlow)
+    * <b>[Week 1 - Style Transfer](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/4.%20Generative%20Deep%20Learning%20with%20TensorFlow/1.%20Style%20Transfer)</b>: You will learn how to extract the content of an image (such as a swan), and the style of a painting (such as cubist, or impressionist), and combine the content and style into a new image. This is called neural style transfer, and you'll learn how to extract these kinds of features using transfer learning.
+
+---
+
 
 ## Instructors
 
