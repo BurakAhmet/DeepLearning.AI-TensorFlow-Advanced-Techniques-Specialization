@@ -65,6 +65,8 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
     * <b>[Week 1 - Style Transfer](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/4.%20Generative%20Deep%20Learning%20with%20TensorFlow/1.%20Style%20Transfer)</b>: You will learn how to extract the content of an image (such as a swan), and the style of a painting (such as cubist, or impressionist), and combine the content and style into a new image. This is called neural style transfer, and you'll learn how to extract these kinds of features using transfer learning.
    
     * <b>[Week 2 - AutoEncoders](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/4.%20Generative%20Deep%20Learning%20with%20TensorFlow/2.%20AutoEncoders)</b>: You’ll get an overview of AutoEncoders and how to build them with TensorFlow. You'll learn how to build a simple AutoEncoder on the familiar MNIST dataset, before diving into more complicated deep and convolutional architectures that you'll build on the Fashion MNIST dataset. You'll get to see the difference in results of the DNN and CNN AutoEncoder models, and then identify ways to denoise noisy images. You'll finish the week building a CNN AutoEncoder using TensorFlow to output a clean image from a noisy one!
+   
+    * <b>[Week 3 - Variational AutoEncoders](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/4.%20Generative%20Deep%20Learning%20with%20TensorFlow/3.%20Variational%20AutoEncoders)</b>: You will explore Variational AutoEncoders (VAEs) to generate entirely new data. In this week’s assignment, you will generate anime faces and compare them against reference images.
 
 ---
 
