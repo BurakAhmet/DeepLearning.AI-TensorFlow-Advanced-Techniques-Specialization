@@ -8,6 +8,11 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
 ## About This Specialization
   In this Specialization, you will expand your knowledge of the Functional API and build exotic non-sequential model types. You will learn how to optimize training in different environments with multiple processors and chip types and get introduced to advanced computer vision scenarios such as object detection, image segmentation, and interpreting convolutions. You will also explore generative deep learning including the ways AIs can create new content from Style Transfer to Auto Encoding, VAEs, and GANs.
 
+<details>
+  <summary>Show Specialization Certificate</summary>
+       <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/assets/89780902/fda10fdb-1114-4063-9672-53520c97bd7e">
+  </details>
+
 ## Contents
   - ### [Custom Models, Layers, and Loss Functions with TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques/tree/main/1.%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow)
     
@@ -67,7 +72,13 @@ For more information you can check **[course info](https://www.deeplearning.ai/c
     * <b>[Week 2 - AutoEncoders](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/4.%20Generative%20Deep%20Learning%20with%20TensorFlow/2.%20AutoEncoders)</b>: You’ll get an overview of AutoEncoders and how to build them with TensorFlow. You'll learn how to build a simple AutoEncoder on the familiar MNIST dataset, before diving into more complicated deep and convolutional architectures that you'll build on the Fashion MNIST dataset. You'll get to see the difference in results of the DNN and CNN AutoEncoder models, and then identify ways to denoise noisy images. You'll finish the week building a CNN AutoEncoder using TensorFlow to output a clean image from a noisy one!
    
     * <b>[Week 3 - Variational AutoEncoders](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/4.%20Generative%20Deep%20Learning%20with%20TensorFlow/3.%20Variational%20AutoEncoders)</b>: You will explore Variational AutoEncoders (VAEs) to generate entirely new data. In this week’s assignment, you will generate anime faces and compare them against reference images.
-
+   
+    * <b>[Week 4 - GANs](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/tree/main/4.%20Generative%20Deep%20Learning%20with%20TensorFlow/4.%20GANs)</b>: You’ll learn about GANs. You'll learn what they are, who invented them, their architecture and how they vary from VAEs. You'll get to see the function of the generator and the discriminator within the model, and the concept of 2 training phases and the role of introduced noise. Then you'll end the week building your own GAN that can generate faces!
+   
+    <details>
+    <summary>Show Certificate</summary>
+         <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Advanced-Techniques-Specialization/assets/89780902/3aa2b7e9-b153-4637-96b2-7e758597d8e0">
+    </details>
 ---
 
 
